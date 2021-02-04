@@ -170,6 +170,18 @@ button{
   cursor: pointer;
 }
 
+.developerland-mok{
+  display: flex;
+}
+
+.details-mok p{
+  margin: 0;
+}
+
+.details-mok span{
+  font-weight: bold;
+}
+
 .payment-option{
   height: 64px;
 }
